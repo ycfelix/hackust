@@ -1,0 +1,7 @@
+ Button nextPageBtn = (Button)findViewById(R.id.button);
+        nextPageBtn.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent();
+                intent.setClass(MainActivity.this, Main2Activity.class);
+                startActivity(intent);
