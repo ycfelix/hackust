@@ -1,0 +1,9 @@
+<string-array name="name_option">
+        <item>""</item>
+        <item>Facebook</item>
+        <item>Instagram</item>
+        <item>Google</item>
+        <item>Twitter</item>
+        <item>UST_ITSC</item>
+        <item>Other</item>
+    </string-array>
